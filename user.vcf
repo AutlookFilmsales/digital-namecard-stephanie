@@ -7,7 +7,7 @@ ORG:Autlook Filmsales;
 TITLE:Director of Sales
 EMAIL;type=INTERNET;type=WORK;type=pref:andrea@autlookfilms.com
 TEL;type=WORK;type=VOICE:+43 670 208 7881
-item1.ADR;type=WORK;type=pref:;;Spittelberggasse 3.14\,1070 Vienna;;;Austria
+item1.ADR;type=WORK;type=pref:;;Spittelberggasse 3/14\n,1070 Vienna;;;Austria
 item1.X-ABADR:sg
 item2.URL;type=pref:autlookfilms.com
 item2.X-ABLabel:_$!<HomePage>!$_
